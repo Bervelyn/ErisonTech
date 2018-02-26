@@ -1,0 +1,82 @@
+1519638980a:1:{s:24:"pages-home/slideshow.htm";a:5:{s:8:"fileName";s:24:"pages-home/slideshow.htm";s:7:"content";s:1899:"<div class="lt-row row">
+  <div class="lt-col col s12">
+    <div class="lt-slider slider fullscreen">
+      <ul class="slides">
+        <li>
+          <img src="{{ 'assets/img/pages/home/slideshow/img-01.jpg'|theme }}" alt="image">
+          <div class="caption center-align">
+            <h2 class="lt-slider-title">Professional and Seasoned </h2>
+            <h5 class="lt-slider-subtitle">customized applications development</h5>
+            <div class="lt-slider-button">
+              <a href="#" target="_blank" class="waves-effect waves-light btn-large primary-color-background">More<i class="material-icons right">input</i></a>
+            </div>
+           
+          </div>
+        </li>
+        <li>
+          <img src="{{ 'assets/img/pages/home/slideshow/img-02.jpg'|theme }}" alt="image">
+          <div class="caption center-align">
+            <h2 class="lt-slider-title">World class UI and UX Experts</h2>
+            <h5 class="lt-slider-subtitle">we develop to satisfy a myraid of use cases with optimum satisfcation</h5>
+            <div class="lt-slider-button">
+              <a href="" target="_blank" class="waves-effect waves-light btn-large primary-color-background">More<i class="material-icons right">input</i></a>
+            </div>
+           
+          </div>
+        </li>
+        <li>
+          <img src="{{ 'assets/img/pages/home/slideshow/img-03.jpg'|theme }}" alt="image">
+          <div class="caption center-align">
+            <h2 class="lt-slider-title">Remote Support</h2>
+            <h5 class="lt-slider-subtitle">We provide tech support world wide</h5>
+            <div class="lt-slider-button">
+              <a href="" target="_blank" class="waves-effect waves-light btn-large primary-color-background">More<i class="material-icons right">input</i></a>
+            </div>
+           
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+";s:5:"mtime";i:1519055905;s:6:"markup";s:1898:"<div class="lt-row row">
+  <div class="lt-col col s12">
+    <div class="lt-slider slider fullscreen">
+      <ul class="slides">
+        <li>
+          <img src="{{ 'assets/img/pages/home/slideshow/img-01.jpg'|theme }}" alt="image">
+          <div class="caption center-align">
+            <h2 class="lt-slider-title">Professional and Seasoned </h2>
+            <h5 class="lt-slider-subtitle">customized applications development</h5>
+            <div class="lt-slider-button">
+              <a href="#" target="_blank" class="waves-effect waves-light btn-large primary-color-background">More<i class="material-icons right">input</i></a>
+            </div>
+           
+          </div>
+        </li>
+        <li>
+          <img src="{{ 'assets/img/pages/home/slideshow/img-02.jpg'|theme }}" alt="image">
+          <div class="caption center-align">
+            <h2 class="lt-slider-title">World class UI and UX Experts</h2>
+            <h5 class="lt-slider-subtitle">we develop to satisfy a myraid of use cases with optimum satisfcation</h5>
+            <div class="lt-slider-button">
+              <a href="" target="_blank" class="waves-effect waves-light btn-large primary-color-background">More<i class="material-icons right">input</i></a>
+            </div>
+           
+          </div>
+        </li>
+        <li>
+          <img src="{{ 'assets/img/pages/home/slideshow/img-03.jpg'|theme }}" alt="image">
+          <div class="caption center-align">
+            <h2 class="lt-slider-title">Remote Support</h2>
+            <h5 class="lt-slider-subtitle">We provide tech support world wide</h5>
+            <div class="lt-slider-button">
+              <a href="" target="_blank" class="waves-effect waves-light btn-large primary-color-background">More<i class="material-icons right">input</i></a>
+            </div>
+           
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>";s:4:"code";N;}}

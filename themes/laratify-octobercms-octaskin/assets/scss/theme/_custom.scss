@@ -1,0 +1,17 @@
+#lt-navigation nav {
+    background-color: #00ccff;
+    color: #fff;
+}
+
+.lt-navbar nav.lt-no-background ul li:hover a, .lt-navbar nav.lt-no-background ul li:focus a, .lt-navbar nav.lt-no-background ul li.active a {
+    color: #00ccff;
+}
+
+.lt-navbar nav ul li:hover a, .lt-navbar nav ul li:focus a, .lt-navbar nav ul li.active a {
+    color: black;
+    background-color: transparent;
+}
+
+.primary-color-background {
+    background-color: #00ccff !important;
+}

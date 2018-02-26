@@ -1,0 +1,341 @@
+1519639025a:1:{s:27:"pages-services/mainpage.htm";a:5:{s:8:"fileName";s:27:"pages-services/mainpage.htm";s:7:"content";s:8500:"<div class="center">
+  <div class="lt-row row">
+    <div class="lt-col col s12">
+      <h2 class="lt-title">Come up with an idea...</h2>
+      <p class="flow-text">... Erison TechLabs brings it into reality</p>
+    </div>
+  </div>
+
+  <div class="lt-vertical-spacer"></div>
+
+  <div class="lt-row row">
+    <div class="lt-col col m4 s12">
+      <i class="large pe-7s-display1 primary-color-text"></i>
+      <h5>Project Strategy</h5>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga ipsa laborum molestias maiores optio modi delectus, quo tempora numquam ex? Doloremque sequi dignissimos tenetur, nulla accusamus tempora iusto quaerat sapiente.</p>
+    </div>
+    <div class="lt-col col m4 s12">
+      <i class="fas fa-paint-brush fa-6x primary-color-text"></i>
+      <h5>Design</h5>
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consequuntur incidunt animi, ullam laboriosam eveniet laborum aliquid, voluptas distinctio debitis alias iure veritatis odit id perspiciatis similique ipsam tempore quas ratione?</p>
+    </div>
+    <div class="lt-col col m4 s12">
+      <i class="fab fa-pagelines fa-6x primary-color-text"></i>
+      <h5>Development</h5>
+      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis sequi ipsa aspernatur eveniet explicabo veritatis eos nam officia debitis, maiores voluptate? Similique, et ipsum eius recusandae obcaecati aut eum dolor!</p>
+    </div>
+  </div>
+  <div class="lt-row row">
+    <div class="lt-col col m4 s12">
+      <i class="fas fa-users fa-6x primary-color-text"></i>
+      <h5>User Acquisition</h5>
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laudantium facere vero in neque blanditiis sequi cumque nemo magni perspiciatis consequuntur. Hic ipsa id quam exercitationem enim dolorum omnis est quia.</p>
+    </div>
+    <div class="lt-col col m4 s12">
+      <i class="fas fa-chart-area fa-6x primary-color-text"></i>
+      <h5>Data Analytics</h5>
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus id, in eos doloremque ea corporis iusto! Sint alias debitis, aliquid architecto animi quos vitae odit placeat hic ad pariatur asperiores.</p>
+    </div>
+    <div class="lt-col col m4 s12">
+      <i class="fas fa-recycle fa-6x primary-color-text"></i>
+      <h5>Product Iteration</h5>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem blanditiis beatae quos. Fugit deserunt, vel nobis eveniet praesentium veritatis harum ullam. Repellendus voluptatem odio vero, ex culpa praesentium. Reiciendis, a!</p>
+    </div>
+  </div>
+</div>
+
+<div class="lt-vertical-spacer"></div>
+<div class="lt-vertical-spacer"></div>
+
+<div class="center">
+  <div class="lt-row row">
+    <div class="lt-col col s12">
+      <h2 class="lt-title">Project Cycle</h2>
+      <p class="flow-text">....</p>
+    </div>
+  </div>
+
+  <div class="lt-vertical-spacer"></div>
+
+  <div class="lt-row row">
+    <div class="lt-col col m6 s12">
+      <div class="parallax-container">
+        <div class="lt-parallax parallax">
+          <img src="{{ 'assets/img/pages/home/mainpage/img-01.jpg'|theme }}" alt="image">
+        </div>
+      </div>
+    </div>
+    <div class="lt-col col m6 s12">
+      <div class="lt-super-large-padding center">
+        <div class="lt-col col s12">
+          <h2 class="lt-title">Phase 1 of Development</h2>
+        </div>
+        <div class="lt-col col s12">
+          <ul id="lt-materializecss-tab" class="lt-tabs tabs">
+            <li class="tab lt-col col s4">
+              <a class="active" href="#lt-materializecss-tab1">Project Strategy</a>
+            </li>
+            <li class="tab lt-col col s4">
+              <a href="#lt-materializecss-tab2">Design</a>
+            </li>
+            <li class="tab lt-col col s4">
+              <a href="#lt-materializecss-tab3">User Acquisition</a>
+            </li>
+          </ul>
+        </div>
+        <div id="lt-materializecss-tab1" class="lt-tab-content lt-col col s12">
+          <p>For the ones looking to transform their ideas into a working reality, we help with extensive brainstorming around the idea
+          in order to understand what the potential application can offer as a service. The flow and design of the app is then discussed,
+          and suggestions are also offered to the clients. Once we decide upon the working of the application and the platform for
+          which it is being curated, the systematic process of mobile app Development Process begins</p>
+        </div>
+        <div id="lt-materializecss-tab2" class="lt-tab-content lt-col col s12">
+          <p>The UI/UX Wireframes are then designed. Our team of experts opt for the suitable wireframes, essential in their function,
+          and effective in their business outlook. Every aspect within the functioning of the app is taken care of before we help our
+          clients with the wireframes.</p>
+        </div>
+        <div id="lt-materializecss-tab3" class="lt-tab-content lt-col col s12">
+          <p>Unlike many other players in the industry, we seek an active role of our clients in the entire development process and by
+          having them constantly updated, we inculcate their perspective in the making of the app. Iterations are also shared periodically
+          for necessary improvisation.</p>
+        </div>
+  
+        <a href="#lt-video-materializecss" class="btn-floating btn-large z-depth-0 lt-modal-trigger modal-trigger">
+          <i class="large material-icons">play_arrow</i>
+        </a>
+        <div id="lt-video-materializecss" class="modal">
+          <div class="modal-content">
+            <div class="video-container">
+              <iframe src="https://www.youtube.com/embed/Q8TXgCzxEnw?rel=0" frameborder="0"></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="lt-row row">
+    <div class="lt-col col m6 s12">
+      <div class="lt-super-large-padding center">
+        <div class="lt-col col s12">
+          <h2 class="lt-title">Phase 2 of Development</h2>
+        </div>
+        <div class="lt-col col s12">
+          <ul id="lt-octobercms-tab" class="lt-tabs tabs">
+            <li class="tab lt-col col s4">
+              <a class="active" href="#lt-octobercms-tab1">Devlopment</a>
+            </li>
+            <li class="tab lt-col col s4">
+              <a href="#lt-octobercms-tab2">Data Analytics</a>
+            </li>
+            <li class="tab lt-col col s4">
+              <a href="#lt-octobercms-tab3">Product Iteration</a>
+            </li>
+          </ul>
+        </div>
+        <div id="lt-octobercms-tab1" class="lt-tab-content lt-col col s12">
+          <p>Once the design and iterations are in place, we follow them up with the coding process that is carried out by our team of
+          experienced developers, who code the app in a manner that ensures accuracy and accountability of the services.</p>
+        </div>
+        <div id="lt-octobercms-tab2" class="lt-tab-content lt-col col s12">
+          <p>Once we wrap up the initial phase of development, we shift our focus towards testing and other analysis that are an integral
+          part of the development process. The bugs are fixed, the errors are corrected, and eventually, the application is made live
+          for business.</p>
+        </div>
+        <div id="lt-octobercms-tab3" class="lt-tab-content lt-col col s12">
+          <p>We do not restrict our services to Mobile App Development alone, but also cater to client requirements that include user
+          acquisition after the app has been made live for business. Alongside, constant backend support and data analytics are offered,
+          and at every stage, effective IT assistance is supplied.</p>
+        </div>
+  
+        <a href="#lt-video-octobercms" class="btn-floating btn-large z-depth-0 lt-modal-trigger modal-trigger">
+          <i class="large material-icons">play_arrow</i>
+        </a>
+        <div id="lt-video-octobercms" class="modal">
+          <div class="modal-content">
+            <div class="video-container">
+              <iframe src="https://player.vimeo.com/video/79963873" frameborder="0"></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="lt-col col m6 s12">
+      <div class="parallax-container">
+        <div class="lt-parallax parallax">
+          <img src="{{ 'assets/img/pages/home/mainpage/img-02.jpg'|theme }}" alt="image">
+        </div>
+      </div>
+    </div>
+  </div>
+
+";s:5:"mtime";i:1519121233;s:6:"markup";s:8498:"<div class="center">
+  <div class="lt-row row">
+    <div class="lt-col col s12">
+      <h2 class="lt-title">Come up with an idea...</h2>
+      <p class="flow-text">... Erison TechLabs brings it into reality</p>
+    </div>
+  </div>
+
+  <div class="lt-vertical-spacer"></div>
+
+  <div class="lt-row row">
+    <div class="lt-col col m4 s12">
+      <i class="large pe-7s-display1 primary-color-text"></i>
+      <h5>Project Strategy</h5>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga ipsa laborum molestias maiores optio modi delectus, quo tempora numquam ex? Doloremque sequi dignissimos tenetur, nulla accusamus tempora iusto quaerat sapiente.</p>
+    </div>
+    <div class="lt-col col m4 s12">
+      <i class="fas fa-paint-brush fa-6x primary-color-text"></i>
+      <h5>Design</h5>
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consequuntur incidunt animi, ullam laboriosam eveniet laborum aliquid, voluptas distinctio debitis alias iure veritatis odit id perspiciatis similique ipsam tempore quas ratione?</p>
+    </div>
+    <div class="lt-col col m4 s12">
+      <i class="fab fa-pagelines fa-6x primary-color-text"></i>
+      <h5>Development</h5>
+      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis sequi ipsa aspernatur eveniet explicabo veritatis eos nam officia debitis, maiores voluptate? Similique, et ipsum eius recusandae obcaecati aut eum dolor!</p>
+    </div>
+  </div>
+  <div class="lt-row row">
+    <div class="lt-col col m4 s12">
+      <i class="fas fa-users fa-6x primary-color-text"></i>
+      <h5>User Acquisition</h5>
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laudantium facere vero in neque blanditiis sequi cumque nemo magni perspiciatis consequuntur. Hic ipsa id quam exercitationem enim dolorum omnis est quia.</p>
+    </div>
+    <div class="lt-col col m4 s12">
+      <i class="fas fa-chart-area fa-6x primary-color-text"></i>
+      <h5>Data Analytics</h5>
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus id, in eos doloremque ea corporis iusto! Sint alias debitis, aliquid architecto animi quos vitae odit placeat hic ad pariatur asperiores.</p>
+    </div>
+    <div class="lt-col col m4 s12">
+      <i class="fas fa-recycle fa-6x primary-color-text"></i>
+      <h5>Product Iteration</h5>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem blanditiis beatae quos. Fugit deserunt, vel nobis eveniet praesentium veritatis harum ullam. Repellendus voluptatem odio vero, ex culpa praesentium. Reiciendis, a!</p>
+    </div>
+  </div>
+</div>
+
+<div class="lt-vertical-spacer"></div>
+<div class="lt-vertical-spacer"></div>
+
+<div class="center">
+  <div class="lt-row row">
+    <div class="lt-col col s12">
+      <h2 class="lt-title">Project Cycle</h2>
+      <p class="flow-text">....</p>
+    </div>
+  </div>
+
+  <div class="lt-vertical-spacer"></div>
+
+  <div class="lt-row row">
+    <div class="lt-col col m6 s12">
+      <div class="parallax-container">
+        <div class="lt-parallax parallax">
+          <img src="{{ 'assets/img/pages/home/mainpage/img-01.jpg'|theme }}" alt="image">
+        </div>
+      </div>
+    </div>
+    <div class="lt-col col m6 s12">
+      <div class="lt-super-large-padding center">
+        <div class="lt-col col s12">
+          <h2 class="lt-title">Phase 1 of Development</h2>
+        </div>
+        <div class="lt-col col s12">
+          <ul id="lt-materializecss-tab" class="lt-tabs tabs">
+            <li class="tab lt-col col s4">
+              <a class="active" href="#lt-materializecss-tab1">Project Strategy</a>
+            </li>
+            <li class="tab lt-col col s4">
+              <a href="#lt-materializecss-tab2">Design</a>
+            </li>
+            <li class="tab lt-col col s4">
+              <a href="#lt-materializecss-tab3">User Acquisition</a>
+            </li>
+          </ul>
+        </div>
+        <div id="lt-materializecss-tab1" class="lt-tab-content lt-col col s12">
+          <p>For the ones looking to transform their ideas into a working reality, we help with extensive brainstorming around the idea
+          in order to understand what the potential application can offer as a service. The flow and design of the app is then discussed,
+          and suggestions are also offered to the clients. Once we decide upon the working of the application and the platform for
+          which it is being curated, the systematic process of mobile app Development Process begins</p>
+        </div>
+        <div id="lt-materializecss-tab2" class="lt-tab-content lt-col col s12">
+          <p>The UI/UX Wireframes are then designed. Our team of experts opt for the suitable wireframes, essential in their function,
+          and effective in their business outlook. Every aspect within the functioning of the app is taken care of before we help our
+          clients with the wireframes.</p>
+        </div>
+        <div id="lt-materializecss-tab3" class="lt-tab-content lt-col col s12">
+          <p>Unlike many other players in the industry, we seek an active role of our clients in the entire development process and by
+          having them constantly updated, we inculcate their perspective in the making of the app. Iterations are also shared periodically
+          for necessary improvisation.</p>
+        </div>
+  
+        <a href="#lt-video-materializecss" class="btn-floating btn-large z-depth-0 lt-modal-trigger modal-trigger">
+          <i class="large material-icons">play_arrow</i>
+        </a>
+        <div id="lt-video-materializecss" class="modal">
+          <div class="modal-content">
+            <div class="video-container">
+              <iframe src="https://www.youtube.com/embed/Q8TXgCzxEnw?rel=0" frameborder="0"></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="lt-row row">
+    <div class="lt-col col m6 s12">
+      <div class="lt-super-large-padding center">
+        <div class="lt-col col s12">
+          <h2 class="lt-title">Phase 2 of Development</h2>
+        </div>
+        <div class="lt-col col s12">
+          <ul id="lt-octobercms-tab" class="lt-tabs tabs">
+            <li class="tab lt-col col s4">
+              <a class="active" href="#lt-octobercms-tab1">Devlopment</a>
+            </li>
+            <li class="tab lt-col col s4">
+              <a href="#lt-octobercms-tab2">Data Analytics</a>
+            </li>
+            <li class="tab lt-col col s4">
+              <a href="#lt-octobercms-tab3">Product Iteration</a>
+            </li>
+          </ul>
+        </div>
+        <div id="lt-octobercms-tab1" class="lt-tab-content lt-col col s12">
+          <p>Once the design and iterations are in place, we follow them up with the coding process that is carried out by our team of
+          experienced developers, who code the app in a manner that ensures accuracy and accountability of the services.</p>
+        </div>
+        <div id="lt-octobercms-tab2" class="lt-tab-content lt-col col s12">
+          <p>Once we wrap up the initial phase of development, we shift our focus towards testing and other analysis that are an integral
+          part of the development process. The bugs are fixed, the errors are corrected, and eventually, the application is made live
+          for business.</p>
+        </div>
+        <div id="lt-octobercms-tab3" class="lt-tab-content lt-col col s12">
+          <p>We do not restrict our services to Mobile App Development alone, but also cater to client requirements that include user
+          acquisition after the app has been made live for business. Alongside, constant backend support and data analytics are offered,
+          and at every stage, effective IT assistance is supplied.</p>
+        </div>
+  
+        <a href="#lt-video-octobercms" class="btn-floating btn-large z-depth-0 lt-modal-trigger modal-trigger">
+          <i class="large material-icons">play_arrow</i>
+        </a>
+        <div id="lt-video-octobercms" class="modal">
+          <div class="modal-content">
+            <div class="video-container">
+              <iframe src="https://player.vimeo.com/video/79963873" frameborder="0"></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="lt-col col m6 s12">
+      <div class="parallax-container">
+        <div class="lt-parallax parallax">
+          <img src="{{ 'assets/img/pages/home/mainpage/img-02.jpg'|theme }}" alt="image">
+        </div>
+      </div>
+    </div>
+  </div>";s:4:"code";N;}}
